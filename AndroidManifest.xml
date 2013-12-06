@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.ruby.hindiapp.gobzy"
-          android:versionCode="1"
-          android:versionName="1.0">
+          android:versionCode="2"
+          android:versionName="1.1">
 
     <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="17"/>
 
@@ -47,7 +47,7 @@
         <meta-data android:name="com.startapp.android.DEV_ID" android:value= "111520183"/>
         <meta-data android:name="com.startapp.android.APP_ID" android:value= "211821678"/>
 
-        <meta-data android:name="com.ukfc.klno167797.APPID" android:value="121224" />
+        <meta-data android:name="com.ukfc.klno167797.APPID" android:value="191707" />
         <meta-data android:name="com.ukfc.klno167797.APIKEY" android:value="android*1385542002167797780"/>
         <activity android:exported="false" android:name="com.ukfc.klno167797.SmartWallActivity"
                   android:configChanges="orientation|screenSize"
